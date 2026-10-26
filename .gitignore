@@ -1,0 +1,4 @@
+*.o
+train
+viewer
+*:Zone.Identifier
